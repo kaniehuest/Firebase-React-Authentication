@@ -4,7 +4,7 @@ Una autenticación simple utilizando React y Firebase.
 
 Puedes probarlo clonando el repositorio.
 
-    $ git clone https://github.com/kaniehuest/firebase-react-authentication.git
+    $ git clone https://github.com/kaniehuest/firebase-react-authentication.git && cd firebase-react-authentication
     
     
 Primero debes descargar los paquetes con este comando. 
